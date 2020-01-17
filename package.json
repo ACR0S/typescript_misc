@@ -1,0 +1,19 @@
+{
+  "name": "typescript_misc",
+  "version": "1.0.0",
+  "description": "TS Miscellaneous",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACR0S/typescript_misc.git"
+  },
+  "author": "ACR0S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ACR0S/typescript_misc/issues"
+  },
+  "homepage": "https://github.com/ACR0S/typescript_misc#readme"
+}
