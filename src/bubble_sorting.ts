@@ -1,3 +1,5 @@
+export {};
+
 function permuteValues(a: number, b: number): number[]{
     if (a <= b) {
         let orderedList: number[] = [a, b];
